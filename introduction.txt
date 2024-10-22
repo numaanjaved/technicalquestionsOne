@@ -1,0 +1,10 @@
+In this task, 
+you are assigned to cover technical interview questions related to 
+1. html css
+2. javascript 
+
+and 
+3. hacker rank practice questions of sql as much as possible
+(cover the lectures of knowledge gate of dbms as much as possible)
+
+4. Solve the competitive programming problems i shared in group 
