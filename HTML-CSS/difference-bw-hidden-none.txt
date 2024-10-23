@@ -1,0 +1,7 @@
+Q. What is difference between display none and visibility hidden?
+
+display none:
+display none hides the element from the document and doesn't occupy space which doesn't affect the layout.
+
+visibility hidden:
+visibility hidden also hides the element from the document but it occupies the space of that element which will affect the layout.
