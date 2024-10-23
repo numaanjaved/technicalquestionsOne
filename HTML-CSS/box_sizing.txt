@@ -1,0 +1,15 @@
+Box-Sizing:
+
+There are two types of box-sizing:
+
+content-box (default): Suppose we have a box with a height and width of 100px. If we add padding or a border to this box, the padding and border will be applied outside the 100px content area. This means the total size of the box will exceed 100px, as the padding and border are not included in the content area. This can sometimes cause layout issues, as one box might overlap or encroach on the space of another. To avoid this, we can use border-box.
+syntax:
+* {
+  box-sizing: content-box;
+}
+
+border-box: Suppose we have a box with a height and width of 100px. In this case, the padding and border are included within the 100px content area, instead of being added outside. This ensures that the total size of the box remains 100px. As always, the margin is applied outside the content area, so it is not included in the box’s size.
+syntax:
+* {
+  box-sizing: border-box;
+}
