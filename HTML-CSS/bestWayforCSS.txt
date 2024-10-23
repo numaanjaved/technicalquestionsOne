@@ -1,0 +1,4 @@
+Best Way to include CSS:
+Best way to include CSS is the separate CSS file. It has many advantages as compared to other methods like inline CSS and style tag. Separate CSS files makes code clean and maintains code readability, especially when you are working on a large project. It also improves reusability, suppose we have same content on two different pages so in this case we can include CSS file instead of writing CSS for whole page. So it is recommended to use a separate CSS file for styling.
+It's syntax is:
+ <link rel="stylesheet" href="./style.css">
