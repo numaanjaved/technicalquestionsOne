@@ -1,0 +1,25 @@
+Positions in CSS:
+
+Position absolute: An element with position: absolute moves relative to its nearest positioned ancestor (not just its parent).
+syntax:
+div {
+  position: absolute;
+}
+
+Position relative: An element with position: relative moves relative to its own original position.
+syntax:
+div {
+  position: relative;
+}
+
+Position sticky: An element with position: sticky toggles between relative and fixed based on the user's scroll position, becoming fixed when it reaches a specified scroll point.
+syntax:
+div {
+  position: sticky;
+}
+
+Position static: Position static is the default position of elements in CSS, and it will not move when using top, bottom, left, or right.
+syntax:
+div {
+  position: static;
+}
