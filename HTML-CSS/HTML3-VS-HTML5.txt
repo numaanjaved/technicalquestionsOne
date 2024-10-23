@@ -1,0 +1,3 @@
+Difference between HTML3 and HTML5:
+
+HTML stands for Hypertext Markup Language. HTML3 is an older version of HTML, while HTML5 is an improved version. HTML3 doesn't support multimedia, whereas HTML5 does. HTML3 does not have semantic tags, whereas HTML5 includes semantic tags that help browsers understand the content on the page. HTML3 has fewer features to support JavaScript. HTML3 also has a more complicated syntax compared to HTML5, which has cleaner and simpler syntax. Additionally, HTML5 introduces new tags and attributes that were not available in HTML3.
