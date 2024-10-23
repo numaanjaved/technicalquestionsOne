@@ -1,0 +1,9 @@
+Q. Which attribute is used to control the background image repetition?
+
+background-repeat: no-repeat; is used to control the background repetition.
+syntax is:
+
+div {
+  background-image: url("./image_Bg");
+  background-repeat: no-repeat;
+}
