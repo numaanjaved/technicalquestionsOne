@@ -1,7 +1,0 @@
-SASS LESS and STYLUS are the 3 most famous way in which coders write CSS.
-SASS:
-SASS is very popular in programmer's world. because in SASS provides variables functions and other features which are not available in other. SASS is faster than other. SASS uses $ sign for variables
-LESS:
-LESS is similar to SASS. It allows us to define variable of styling then use variable where we want to use them. It is similar to SASS but it is slow in Speed. LESS is used by bootstrap. uses @ sign for variables
-STYLUS:
-STYLUS is different from SASS and LESS because in STYLUS we can write code without braces, which is more flexible variables are defined by using assignment operator. It also provides functions variables but its key feature is we can write it without semi colons and braces.
