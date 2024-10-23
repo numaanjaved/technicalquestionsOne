@@ -1,0 +1,13 @@
+What are the different ways to hide an element in CSS?
+
+1. Using Display property:
+display: none;
+
+2. Using visibility Property:
+visibility: hidden;
+
+3. Using Opacity:
+opacity: 0;
+
+4. Using transform property:
+transform: scale(0);
