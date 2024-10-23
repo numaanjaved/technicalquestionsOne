@@ -1,0 +1,4 @@
+What is an Attribute in HTML?
+An attribute in HTML defines additional properties or behaviors of an HTML element. For example, in an <img> tag, the src and alt attributes specify the image's source and alternate text.
+Syntax:
+<img src="./img1" alt="Image of an Apple">
