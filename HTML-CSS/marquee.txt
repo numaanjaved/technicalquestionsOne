@@ -1,0 +1,8 @@
+Marquee tag in HTML:
+
+Marquee was a tag in HTML which is now not recommended to use in HTML5. This tag allows us to animate HTML text. Means there will be a text which will move from left to right direction is not specific it is set by the user. If it is up down then the text will move from up to down. we can set the behavior speed and direction of this. There are 3 types of behavior scroll which is default. Then we have alternate in this the text will flow in opposite direction, and the last one is slide in slide text will just complete one round for example it starts moving from left and stops when it reaches right. In other 2 it never stops it continuously moves.
+
+syntax is:
+    <marquee behavior="slide" direction="right">Ahmed</marquee>
+    <marquee behavior="alternate" direction="left">Ali</marquee>
+    <marquee behavior="smooth" direction="up">Usman</marquee>
