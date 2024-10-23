@@ -1,0 +1,8 @@
+Different types of selectors in CSS:
+Selectors are used to select HTML element to apply styling on them. Selector are:
+Universal selector(example of universal selector is: *{margin:0; padding:0;})
+Type Selector(example of type selector are: h1{}, p{} and div{});
+Class selector(examples of  class selector are: .parentContainer, .subContainer)
+id selector(examples of  id selector are: #firstName, #mainContainer)
+Attribute selector(example of attribute selector is input[type="submit"] {})
+Pseudo Selectors (examples of pseudo selectors are ::before and ::after)
