@@ -1,0 +1,10 @@
+What is svg in HTML?
+
+The <svg> tag is part of HTML5 and is used to create and display Scalable Vector Graphics (SVG) directly in HTML. SVG allows you to define vector-based graphics that can be scaled to any size without losing quality.
+
+Circle Example in SVG:
+<svg width="200" height="200">
+  <circle cx="100" cy="100" r="50" stroke="black" stroke-width="3" fill="red" />
+</svg>
+
+It is a circle of red color with black stroke.
