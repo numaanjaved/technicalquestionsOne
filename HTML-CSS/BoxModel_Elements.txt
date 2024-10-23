@@ -1,0 +1,7 @@
+Box Model Elements:
+
+There are 4 box model elements:
+1. Margin
+2. Padding
+3. Border
+4. Content
