@@ -1,3 +1,3 @@
 What is semantic HTML? and how it works?
 
-Semantic HTML is a technique of writing HTML in which we write HTML code in a way that is easily understood by the browser and helps browsers and other systems to better interpret and navigate the content on the page. It also improved page's performance. For example, the <header> tag is used for the website's header, and the <nav> tag is used for navigation. The <aside> tag is typically used to show related content, such as sidebars or complementary information."
+Semantic HTML is a technique of writing HTML in which we write HTML code in a way that is easily understood by the browser and helps browsers and other systems to better interpret and navigate the content on the page. It also improved page's performance. For example, the <header> tag is used for the website's header, and the <nav> tag is used for navigation. The <aside> tag is typically used to show related content, such as sidebars or complementary information.
