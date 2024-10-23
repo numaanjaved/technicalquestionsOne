@@ -1,0 +1,9 @@
+In HTML, How do you separate a section of text?
+
+In HTML we can separate the section of text using <br>(break) tag and using <hr>(horizontal line) tag. <br> tag simple breaks the text whereas <hr> tag add a horizontal line between portions of text.
+
+<br> Tag Syntax:
+<p>hello!<br>I'm Ahmed</p>
+
+<hr> Tag Syntax:
+<p>hello!<hr>I'm Ahmed</p>
