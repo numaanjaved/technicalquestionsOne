@@ -7,9 +7,12 @@ let countVowels = (inputString) => {
     let vowel = 0;
     for (let i = 0; i < string.length; i++) {
 
-        if ("aeiou".includes(string.charAt(i))) { vowel++ }
+        if ("aeiou".includes(string.charAt(i))) {
+
+            vowel++
+        }
         // if (string.charAt(i) === "a" || string.charAt(i) === "e" || string.charAt(i) === "i" || string.charAt(i) === "o" || string.charAt(i) === "u")
-        // {vowel++
+        // {
         // }
     }
     if (vowel > 3) {
@@ -27,4 +30,4 @@ let countVowels = (inputString) => {
     return vowel;
 }
 
-console.log(countVowels("AliJeeee"));
+console.log(countVowels("Mr John Smith Andrew"));
